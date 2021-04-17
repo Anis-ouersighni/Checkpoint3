@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+}
+nav{
+    position: sticky;
+    background-color: rgb(140, 185, 140);
+}
+nav + a:link {
+    color: green;
+
+}
